@@ -40,6 +40,18 @@ const Header = () => {
               </Link>
             </span>
           </p>
+
+          <p className="hero-cta">
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              className="cta-btn cta-btn--hero"
+              href='../../resume/KIIBATI_ADEOJO.pdf'
+            download>
+              Download Resume
+            </a>
+
+          </p>
         </Fade>
       </Container>
     </section>
